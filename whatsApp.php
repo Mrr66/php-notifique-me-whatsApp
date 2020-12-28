@@ -4,9 +4,9 @@ class WhatsApp{
     private $msg;
     private $titulo;
     private $numero;
-    private $url = "https://notifique-me.herokuapp.com/api/Notificacao/v1";
-    private $clienteId = "2ca97dd3-3deb-46a7-b450-26924b91d4de";
-    private $grupo = "ccd796bf-5b75-4c9d-90ac-f51e816adab9";
+    private $url = "";
+    private $clienteId = "";
+    private $grupo = "";
 
     function __construct($msg, $numero, $titulo = 'Cartorio online 2BH ') {
         $this->msg .= $titulo;
