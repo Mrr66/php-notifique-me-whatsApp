@@ -1,7 +1,7 @@
 # Exemplo de uso da API com PHP
  Primeiro passo para usar o cliente de notificação(WhastApp || SMS) || (WhatsApp && SMS) usando a API notifique-me
  
- > ` Faça o download do arquivo [whatsApp.php](ithub.com/Mrr66/php-notifique-me-whatsApp/edit/main/whatsApp.php) adicione o mesmo em seu projeto`
+ > ` Faça o download do arquivo `[whatsApp.php](ithub.com/Mrr66/php-notifique-me-whatsApp/edit/main/whatsApp.php)` adicione o mesmo em seu projeto`
 
  ### 1- Criando uma conexão com as credenciais obtida em https://cad-notifique-me.herokuapp.com/ neste exemplo o programador usa o secretKey e o clienteId
 Abrar o arquivo whatsApp.php
@@ -34,5 +34,5 @@ $whats->send();
 >
 > ### Outras linguagens
 >
-> [C#, .net SDK completo para instalar via nuget](https://github.com/Mrr66/Notifique.me) adicione o mesmo em seu projeto`
+> [C#, .net, SDK completo para instalar via nuget](https://github.com/Mrr66/Notifique.me) adicione o mesmo em seu projeto`
 >
