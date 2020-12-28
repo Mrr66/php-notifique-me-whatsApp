@@ -34,5 +34,5 @@ $whats->send();
 >
 > ### Outras linguagens
 >
-> [C#, .net, SDK completo para instalar via nuget](https://github.com/Mrr66/Notifique.me) adicione o mesmo em seu projeto`
+> [C#, .net, SDK completo para instalar via nuget](https://github.com/Mrr66/Notifique.me)
 >
