@@ -37,3 +37,18 @@ $whats->send();
 > [C#, .net, SDK completo para instalar via nuget](https://github.com/Mrr66/Notifique.me)
 > 
 > [Python, modulo para instalar via pip](https://github.com/Mrr66/Notifique-me-python)
+
+
+# Gostou do Notifique.me?
+Agora basta por a mão na massa e sair notificando seus clientes e sua equipe, há para você que é um DEV dedicado e simplismente de graça basta cadastrar como desenvolvedor.
+
+##### A limites diarios que são aplicado na conta de desenvolvedor diferentemente da conta Business que não a restrição de envio 
+
+>
+> ### Crie sua conta hoje mesmo é completamente gratis 
+>
+>* [Para mais informações acesse](https://cad-notifique-me.herokuapp.com/)
+>
+>* [Criar uma conta Empresarial](https://cad-notifique-me.herokuapp.com/business)
+>
+>* [Criar uma conta Desenvolvedor](https://cad-notifique-me.herokuapp.com/developer)
