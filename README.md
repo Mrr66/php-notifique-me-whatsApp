@@ -36,4 +36,4 @@ $whats->send();
 >
 > [C#, .net, SDK completo para instalar via nuget](https://github.com/Mrr66/Notifique.me)
 > 
-> [Python modulo para instalar via pip](https://github.com/Mrr66/Notifique-me-python)
+> [Python, modulo para instalar via pip](https://github.com/Mrr66/Notifique-me-python)
