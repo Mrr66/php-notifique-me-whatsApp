@@ -5,8 +5,8 @@ class WhatsApp{
     private $titulo;
     private $numero;
     private $urlBase = "https://notifique-me.herokuapp.com";
-    private $clienteId = "66dd4a3c-d13d-40ba-a363-df10139fe15c";
-    private $secretKey = "dK0OwqepDaQAib9EyqXveFstdhdUtICEhmrKx-UW";
+    private $clienteId = "seu clienteId";
+    private $secretKey = "Sua chave secreta";
     private $grupo = null;
     private $token = null;
 
