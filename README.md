@@ -3,13 +3,13 @@
  
  > ` Faça o download do arquivo `[whatsApp.php](ithub.com/Mrr66/php-notifique-me-whatsApp/edit/main/whatsApp.php)` adicione o mesmo em seu projeto`
 
- ### 1- Criando uma conexão com as credenciais obtida em https://cad-notifique-me.herokuapp.com/ neste exemplo o programador usa o secretKey e o clienteId
+ ### 1- Criando uma conexão com as credenciais obtida em https://notifique-me.com/ neste exemplo o programador usa o secretKey e o clienteId
 Abrar o arquivo whatsApp.php
 ```php
     private $msg;
     private $titulo;
     private $numero;
-    private $urlBase = "https://notifique-me.herokuapp.com";
+    private $urlBase = "https://api.notifique-me.com";
     private $clienteId = "Seu clienteId";
     private $secretKey = "Sua chave secreta";
     private $grupo = null;
@@ -51,8 +51,8 @@ Agora basta por a mão na massa e sair notificando seus clientes e sua equipe, h
 >
 > ### Crie sua conta hoje mesmo é completamente gratis 
 >
->* [Para mais informações acesse](https://cad-notifique-me.herokuapp.com/)
+>* [Para mais informações acesse](https://notifique-me.com/)
 >
->* [Criar uma conta Empresarial](https://cad-notifique-me.herokuapp.com/business)
+>* [Criar uma conta Empresarial](https://notifique-me.com/business)
 >
->* [Criar uma conta Desenvolvedor](https://cad-notifique-me.herokuapp.com/developer)
+>* [Criar uma conta Desenvolvedor](https://notifique-me.com/developer)
